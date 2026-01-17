@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Alexander 👋
+### Senior Backend Engineer | Lima, Peru
 
-<!--
-**Ariandel007/Ariandel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Backend Engineer specializing in building scalable, resilient, and maintainable distributed systems. My approach to software development is rooted in **Hexagonal Architecture** and **Microservices**, ensuring that business logic remains decoupled and testable.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- **WedgeAuth:** Creator and maintainer of [WedgeAuth](https://github.com/KuneiFormApp/wedge-authorization-server), an OAuth 2.1 authorization server implementation designed for security and flexibility.
+- **Kuneiform:** Building a specialized web application ecosystem designed specifically for writers and world-builders.
+- **Scaling Systems:** Deep-diving into high-concurrency patterns and cloud-native Java deployments.
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Primary** | `Java` `Spring Boot` `Kotlin` `Microservices` |
+| **Frontend** | `TypeScript` `Angular` `React` `Node.js` |
+| **Architecture** | `Hexagonal Architecture` `DDD` `OAuth 2.1` `REST APIs` |
+| **DevOps** | `Docker` `GitHub Actions` `CI/CD`, `Jenkins`|
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=transparent)
+
+---
+
+### ⚡ Beyond the Code
+When I'm not architecting backends or wrestling with dependency injection:
+- 🏋️ **Gym:** Focused on strength training and progressive overload.
+- 🎮 **Gaming:** Enjoying narrative-driven experiences and competitive play.
+- 🎨 **Art:** I spend my downtime drawing.
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [https://www.linkedin.com/in/alexurbmar](https://www.linkedin.com/in/alexurbmar/?locale=en_US)
+
+*"Focusing on the 'Back' of the Backend to ensure scalability at the core."*

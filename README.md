@@ -23,12 +23,6 @@ I am a Senior Backend Engineer specializing in building scalable, resilient, and
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariandel007&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariandel007&layout=compact&theme=transparent)
-
----
-
 ### ⚡ Beyond the Code
 When I'm not architecting backends or wrestling with dependency injection:
 - 🏋️ **Gym:** Focused on strength training and progressive overload.

@@ -1,37 +1,44 @@
 # Hi there, I'm Alexander 👋
-### Senior Backend Engineer | Lima, Peru
+### Backend Engineer focused on scalable systems, security, and cloud-native architecture
 
-I am a Senior Backend Engineer specializing in building scalable, resilient, and maintainable distributed systems. My approach to software development is rooted in **Hexagonal Architecture** and **Microservices**, ensuring that business logic remains decoupled and testable.
-
----
-
-### 🚀 What I'm working on
-- **WedgeAuth:** Creator and maintainer of [WedgeAuth](https://github.com/KuneiFormApp/wedge-authorization-server), an OAuth 2.1 authorization server implementation designed for security and flexibility.
-- **Kuneiform:** Building a specialized web application ecosystem designed specifically for writers and world-builders.
-- **Scaling Systems:** Deep-diving into high-concurrency patterns and cloud-native Java deployments.
+I design and build resilient backend platforms with a strong focus on **distributed systems**, **OAuth security**, and **maintainable domain-driven design**. My approach to software development emphasizes **Hexagonal Architecture**, **Microservices**, and building systems that scale operationally as well as technically.
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 What I'm building
+- **WedgeAuth:** Creator and maintainer of [WedgeAuth](https://github.com/KuneiFormApp/wedge-authorization-server), an OAuth 2.1 authorization server focused on modular security, flexibility, and developer-first extensibility.
+- **Kuneiform:** Building a specialized digital ecosystem for writers and world-builders, focused on structured creativity, modular design, and scalable product architecture.
+- **Scalable Systems:** Deep-diving into high-concurrency patterns, cloud-native Java deployments, and resilient backend infrastructure.
 
-| Category | Tools & Technologies |
+---
+
+### 🛠 Core Expertise
+
+| Focus Area | Tools & Technologies |
 | :--- | :--- |
-| **Primary** | `Java` `Spring Boot` `Kotlin` `Microservices` |
-| **Frontend** | `TypeScript` `Angular` `React` `Node.js` |
-| **Architecture** | `Hexagonal Architecture` `DDD` `OAuth 2.1` `REST APIs` |
-| **DevOps** | `Docker` `GitHub Actions` `CI/CD`, `Jenkins`|
+| **Backend & Systems** | `Java` `Spring Boot` `Kotlin` `Distributed Systems` `Microservices` |
+| **Architecture & Security** | `Hexagonal Architecture` `DDD` `OAuth 2.1` `REST APIs` |
+| **Cloud & DevOps** | `Docker` `GitHub Actions` `CI/CD` `Jenkins` |
+| **Frontend & Product** | `TypeScript` `Angular` `React` |
+
+---
+
+### 📚 Currently Exploring
+- **AI-Powered Backend Workflows:** Integrating LLM-driven orchestration into modern applications.
 
 ---
 
 ### ⚡ Beyond the Code
-When I'm not architecting backends or wrestling with dependency injection:
+When I’m not designing systems or optimizing backend architecture:
 - 🏋️ **Gym:** Focused on strength training and progressive overload.
-- 🎮 **Gaming:** Enjoying narrative-driven experiences and competitive play.
-- 🎨 **Art:** I spend my downtime drawing.
+- 🎮 **Gaming:** Enjoying narrative-rich worlds and competitive strategy.
+- 🎨 **Art:** Drawing and creative design as a parallel craft.
 
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [https://www.linkedin.com/in/alexurbmar](https://www.linkedin.com/in/alexurbmar/?locale=en_US)
+- **LinkedIn:** [linkedin.com/in/alexurbmar](https://www.linkedin.com/in/alexurbmar/?locale=en_US)
 
-*"Focusing on the 'Back' of the Backend to ensure scalability at the core."*
+---
+
+*"Building the systems behind the products — secure at the core, scalable by design."*
